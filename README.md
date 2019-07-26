@@ -36,6 +36,7 @@ _sequence_ can consist of any number of the following characters:
 * Arrow Keys - Move to next window on screen in direction pressed.
 * Numbers `0` - `9` and keys `m` and `s` - Select a data source for a window.
 	* `0` will set the data source to a CPU overview, and `1` - `9` set it to a specific core.
+        * `Shift` `0` - `9` Will set to CPUs 10-19
 	* `m` will set the data source to RAM usage.
 	* `s` will set the data source to Swap usage.
 * `g` - Toggle grid for selected window.
